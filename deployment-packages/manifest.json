@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/manifest.json#",
+  "artifacts": [
+    {
+      "name": "CreateUiDefinition",
+      "type": "CreateUiDefinition",
+      "path": "createUiDefinition.json"
+    },
+    {
+      "name": "ViewDefinition",
+      "type": "ViewDefinition",
+      "path": "viewDefinition.json"
+    }
+  ]
+}
